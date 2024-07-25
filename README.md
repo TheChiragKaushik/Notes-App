@@ -23,7 +23,7 @@ This note-taking application is a simple yet powerful tool for managing your not
 - **React Router**: For routing and navigation within the app.
 
 ## File Structure
-
+```
 src/
 ├── components/
 │ ├── AddNote.jsx # Component for adding new notes
@@ -41,7 +41,7 @@ src/
 ├── index.css # Global CSS styles
 ├── App.jsx # Main application component that sets up routing and layout
 └── main.jsx # Entry point for the React application, including routing and Redux provider setup
-
+```
 
 ## Setup and Running Instructions
 
