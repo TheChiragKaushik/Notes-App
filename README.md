@@ -1,3 +1,7 @@
+## Live Demo
+
+You can view the deployed application [here](https://yonotes.netlify.app/).
+
 Note-Taking App
 This note-taking application is a simple yet powerful tool for managing your notes. It ensures notes are never lost by storing them in the user's local storage. The app includes features such as CRUD operations, search functionality, pagination, and real-time editing.
 
