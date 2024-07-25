@@ -1,14 +1,7 @@
 import { createSlice, nanoid } from "@reduxjs/toolkit";
 
 const initialState = {
-    notes: [
-        {
-            id: 1,
-            title: "First",
-            text: "Hello World",
-            timestamp: Date.now()
-        }
-    ]
+    notes: []  // Start with an empty array
 };
 
 export const noteSlice = createSlice({
